@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- Infosec student :computer::shield:
+- French infosec student :computer::shield:
 - Enjoy Forensic and OSINT 🔍
 
